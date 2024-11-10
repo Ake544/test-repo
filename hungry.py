@@ -3,4 +3,4 @@ if hungry == 'yes':
     print('eat samosa')
 else:
     water = input('Are you thirsty?')
-    print('Just')
+    print('Thirsty Branch')
